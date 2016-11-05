@@ -10,7 +10,3 @@ gulp.task('build', (cb) =>
 gulp.task('rebuild', ['clean'], (cb) =>
     runSequence(['elm-bundle', 'styles'], 'copy', () => cb())
 );
-
-gulp.task('default', () =>
-    console.log('No default, buddy!')
-);
