@@ -1,3 +1,8 @@
+# elm-binary-trees
+WebGL based binary tree viewer written in Elm
+
+Based on the [Elm quickstart project](https://github.com/pietro909/elm-quickstart).
+
 # Elm Quickstart
 **Elm**, **SASS**, **Gulp** (ES6), **Javscript** synchronized to Elm bootstrap.
 
@@ -70,3 +75,4 @@ The Gulp's configuration files are into `gulp/` folder.
 I strongly thank my colleague [Andrei Toma](http://andreitoma.com/) for helping me
  with Gulp configuration, and the whole Elm community on Slack: they always welcome
  newbies and are happy to help!
+
